@@ -1,14 +1,14 @@
-layout_spectrum: 0.5502354921773076
-typography_spectrum: 0.7373986085876822
+layout_spectrum: 0.37032964755780995
+typography_spectrum: 0.8475164896808565
 color:
-  brandStrength: 0.4055813425220549
-  lightness: 0.785270587541163
-  saturation: 0.40457366220653057
-  rhythmicContrast: 0.6407841262407601
+  brandStrength: 0.5928980440367013
+  lightness: 0.13916380610316992
+  saturation: 0.22074828227050602
+  rhythmicContrast: 0.8658628424163908
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
 name: future wave
