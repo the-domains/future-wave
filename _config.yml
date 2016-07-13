@@ -6,9 +6,9 @@ color:
   saturation: 0.40457366220653057
   rhythmicContrast: 0.6407841262407601
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: future wave
